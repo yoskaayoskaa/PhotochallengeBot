@@ -1,0 +1,6 @@
+DELETED_STATE = "deleted"
+BEGINNING_STATE = "beginning"
+REGISTRATION_STATE = "registration"
+GAMEPLAY_STATE = "gameplay"
+START_ROUND_STATE = "start_round"
+FINISH_ROUND_STATE = "finish_round"
